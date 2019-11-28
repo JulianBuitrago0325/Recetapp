@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "824475598560",
+    "firebase_url": "https://recetapp-950f9.firebaseio.com",
+    "project_id": "recetapp-950f9",
+    "storage_bucket": "recetapp-950f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824475598560:android:d68d267f5845d0e92f1a85",
+        "android_client_info": {
+          "package_name": "com.example.recetapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824475598560-79oa85hearg3flkegghcum92ht1v5lr4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.recetapp",
+            "certificate_hash": "c051a04b81f0a1f934c80a94b00e937dfe53ef8f"
+          }
+        },
+        {
+          "client_id": "824475598560-6ovi162qa1s74m4eohkdisldb5urfe75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7GNzNGp1v1goGQvcaLEHrskB2GeBgDyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824475598560-6ovi162qa1s74m4eohkdisldb5urfe75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
